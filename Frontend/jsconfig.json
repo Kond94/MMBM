@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "*": ["src/*"]
+    },
+    "apiUrl": "http://localhost:5001/api"
+  }
+}
